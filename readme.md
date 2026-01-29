@@ -65,24 +65,39 @@ Complete **60 Python projects in 60 days** and build:
 ## 📝 Project List 
 
 ### =============== DATA SCIENCE ===============
-- Day 01: Student Marks Analysis
-<!-- Day 02: CSV Data Cleaning -->
-<!-- Day 03: Weather Data Analysis -->
-<!-- Day 04: Sales Data Summary -->
-<!-- Day 05: Employee Salary Analysis -->
-<!-- Day 06: Attendance Management -->
-<!-- Day 07: Expense Tracker -->
-<!-- Day 08: Data Visualization Dashboard -->
-<!-- Day 09: Population Data Analysis -->
-<!-- Day 10: E-commerce Sales Analysis -->
-<!-- Day 11: Stock Price Analysis -->
-<!-- Day 12: COVID Data Analysis -->
-<!-- Day 13: IPL Data Analysis -->
-<!-- Day 14: Movie Ratings Analysis -->
-<!-- Day 15: Real-world Dataset Mini Project -->
+#### Day 1 – Student Marks Analysis (mean, median, graphs)
 
-<!-- ================= MACHINE LEARNING ================= -->
-<!-- Day 16: Linear Regression Model -->
+#### Day 2 – CSV Data Cleaning using Pandas
+
+#### Day 3 – Monthly Expense Analyzer
+
+#### Day 4 – Weather Data Analysis using API (min, max, avg temp)
+
+#### Day 5 – COVID Data Visualization
+
+#### Day 6 – Sales Data Trend Analysis
+
+#### Day 7 – Movie Ratings Analysis
+
+#### Day 8 – IPL Match Statistics Analyzer
+
+#### Day 9 – Stock Price Basic Analysis
+
+#### Day 10 – College Attendance Analysis
+
+#### Day 11 – E-commerce Orders Summary
+
+#### Day 12 – Population Data Analysis
+
+#### Day 13 – House Price Dataset Exploration
+
+#### Day 14 – Customer Age vs Spending Analysis
+
+#### Day 15 – Data Visualization Dashboard
+
+
+### ================= MACHINE LEARNING ================= 
+ #### Day 16 - Linear Regression Model
 <!-- Day 17: Multiple Linear Regression -->
 <!-- Day 18: Logistic Regression -->
 <!-- Day 19: KNN Classifier -->
