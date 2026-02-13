@@ -97,24 +97,24 @@ Complete **60 Python projects in 60 days** and build:
 
 
 ### ================= MACHINE LEARNING ================= 
- #### Day 16 - Linear Regression Model
-<!-- Day 17: Multiple Linear Regression -->
-<!-- Day 18: Logistic Regression -->
-<!-- Day 19: KNN Classifier -->
-<!-- Day 20: Decision Tree -->
-<!-- Day 21: Random Forest -->
-<!-- Day 22: Naive Bayes -->
-<!-- Day 23: Support Vector Machine -->
-<!-- Day 24: Model Evaluation Metrics -->
-<!-- Day 25: Train vs Test Visualization -->
-<!-- Day 26: Data Preprocessing Pipeline -->
-<!-- Day 27: Feature Scaling Project -->
-<!-- Day 28: Clustering with K-Means -->
-<!-- Day 29: Mini ML Project -->
-<!-- Day 30: ML Case Study -->
+#### Day 16 - Linear Regression Model
+#### Day 17 - Student Marks prediction
+#### Day 18 - Spam Email Detection
+#### Day 19 - Diabetes Prediction
+#### Day 20 - Iris Flower Classification
+#### Day 21: Movie Recomendation System
+#### Day 22 - Loan Approval system
+#### Day 23 - Weather Prediction Model
+#### Day 24 - Credit Card Fraud Detection
+#### Day 25 - Hand Written Digit Recognition
+#### Day 26: Salary Prediction Model 
+#### Day 27: Smart Resume Keyword Matcher
+#### Day 28 - Customer Churn Prediction
+#### Day 29 - Fake News Detection
+#### Day 30 -  ML Model Comparison
 
-<!-- ================= APP DEVELOPMENT ================= -->
-<!-- Day 31: Calculator App -->
+### ================= APP DEVELOPMENT ================= 
+#### Day 31 - Calculator App 
 <!-- Day 32: Quiz Application -->
 <!-- Day 33: Password Generator -->
 <!-- Day 34: To-Do List App -->
